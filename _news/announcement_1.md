@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: CV
+inline: False
 related_posts: false
 ---
 
-A simple inline announcement.
+Here's a link to my current CV: [subreddit](http://localhost:8080/webpage/assets/pdf/varun-chandra-resume.pdf). 
+
+---
