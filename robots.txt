@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chandrv.github.io/sitemap.xml
+Sitemap: https://chandrv.github.io/webpage/sitemap.xml
