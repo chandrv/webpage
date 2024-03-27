@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 646 983 3986 · varunchandra1993@gmail.com · <a href='https://www.linkedin.com/in/hello-varun/'>LinkedIn</a>
 
 profile:
   align: right
@@ -21,7 +21,6 @@ social: false #includes social icons at the bottom of the page
 Hello!
 
 I am a quantitative researcher with a focus on applying innovative techniques in data science, machine learning and quantitative finance
-to improve decisions about investments and risk.
+to improve decisions about investments and risk. 
 
-Here's a link to my [current CV](http://localhost:8080/webpage/assets/pdf/varun-chandra-resume.pdf). 
-
+Please refer to my <a href='assets/pdf/varun-chandra-resume.pdf'>CV</a> for more information. 
